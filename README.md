@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Cyber-Haze/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Cyber-Haze/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Cyber-Haze/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle & SLA](https://github.com/Cyber-Haze/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [VM's, Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cyber-Haze/Azure-VM-Creation-and-Network-Protocols)
   - [Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
