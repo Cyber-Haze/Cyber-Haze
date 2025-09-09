@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle & SLA](https://github.com/Cyber-Haze/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [VM's, Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cyber-Haze/Azure-VM-Creation-and-Network-Protocols)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)-Currently Configuring
     
     
 
