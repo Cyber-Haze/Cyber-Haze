@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle & SLA](https://github.com/Cyber-Haze/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [VM's, Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cyber-Haze/Azure-VM-Creation-and-Network-Protocols)
-  - [Azure DC and Client Prerequistes Configurtation](https://github.com/Cyber-Haze/Azure-AD-DC-and-Client-VM-s-Configuration)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
+  - [Azure AD: DC and Client Prerequistes Configurtation](https://github.com/Cyber-Haze/Azure-AD-DC-and-Client-VM-s-Configuration)
+  - [Azure AD: Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
     
     
 
