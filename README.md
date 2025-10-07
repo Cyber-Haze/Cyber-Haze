@@ -12,7 +12,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
   - [Configuring Group Policy & Account Management ](https://github.com/Cyber-Haze/Configuring-Group-Policy-Unlocking-Accounts-Resetting-Passwords-Azure)
   - [Basic DNS Demonstration and Testing Lab](https://github.com/Cyber-Haze/Basic-DNS-Demonstration-and-Testing-Lab)
-  - [Network File Share and Permissions]()
+  - [Network File Share and Permissions](https://github.com/Cyber-Haze/Network-File-Share-and-Permissions)
 - <b>AD_PS</b>    
   - [Generate-Names-Create-Users.ps1](https://github.com/Cyber-Haze/Generate_Names_Create_Users.ps1/blob/main/Generate-Names-Create-Users.ps1)
     
