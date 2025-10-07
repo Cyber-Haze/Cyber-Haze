@@ -10,6 +10,8 @@
   - [VM's, Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cyber-Haze/Azure-VM-Creation-and-Network-Protocols)
   - [Azure AD: DC and Client Prerequistes Configurtation](https://github.com/Cyber-Haze/Azure-AD-DC-and-Client-VM-s-Configuration)
   - [Azure AD: Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
+- <b>AD_PS</b>    
+  - [Generate-Names-Create-Users.ps1](https://github.com/Cyber-Haze/AD-Generate-Users-Script_)
     
     
 
