@@ -11,7 +11,7 @@
   - [Azure AD: DC and Client Prerequistes Configurtation](https://github.com/Cyber-Haze/Azure-AD-DC-and-Client-VM-s-Configuration)
   - [Azure AD: Configuring Active Directory within Azure VMs](https://github.com/Cyber-Haze/configure-ad)
 - <b>AD_PS</b>    
-  - [Generate-Names-Create-Users.ps1](https://github.com/Cyber-Haze/AD-Generate-Users-Script_)
+  - [Generate-Names-Create-Users.ps1](Generate-Names-Create-Users.ps1)
     
     
 
