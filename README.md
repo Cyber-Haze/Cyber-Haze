@@ -1,5 +1,7 @@
 <h1>Hi, I'm Rushane, an <a href="https://www.linkedin.com/in/rushane-townsend-716a491a9/">IT Professional</a>☺</h1>
 
+- [Certifications](https://github.com/Cyber-Haze/Certificates)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
